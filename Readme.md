@@ -1,5 +1,5 @@
 ## Python Pagespeed Batch Request
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkevsersrca%2Fpypagespeed.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkevsersrca%2Fpypagespeed?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkevsersrca%2Fpypagespeed.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkevsersrca%2Fpypagespeed?ref=badge_small)
 
 
 Example:
